@@ -173,4 +173,12 @@ cython_debug/
 
 *.mov
 *.mp4
+*.jpg
+*.jpeg
+
 .idea
+.DS_Store
+src/.DS_Store
+
+models/
+inputs/
